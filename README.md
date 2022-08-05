@@ -1,5 +1,9 @@
 Simple app using Redux made while learning Redux.
 
+`npm install`
+
+Run first to install packages.
+
 `npm start`
 
 Runs the app in the development mode.\
